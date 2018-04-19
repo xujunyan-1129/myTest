@@ -12,6 +12,7 @@ public class test {
          if ("b".equals(listNew.get(i))) {
          listNew.remove(i);
          System.out.println("aaaa");
+             System.out.println("bbbb");
          }
         }
 //        Iterator<String> it = listNew.iterator();

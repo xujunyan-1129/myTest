@@ -15,6 +15,7 @@ public class test {
          System.out.println("bbbb");
          System.out.println("cccc");
          System.out.println("顶顶顶顶");
+             System.out.println("cccc");
          }
         }
 //        Iterator<String> it = listNew.iterator();

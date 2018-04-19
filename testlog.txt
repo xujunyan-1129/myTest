@@ -1,3 +1,4 @@
 hello testlog
 eat pair   pair is very good
 eat apple
+submit bug

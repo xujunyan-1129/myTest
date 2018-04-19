@@ -11,7 +11,7 @@ public class test {
         for (int i = 0; i < listNew.size(); i++) {
          if ("b".equals(listNew.get(i))) {
          listNew.remove(i);
-         syso（“aaa”）；
+         System.out.println("aaaa");
          }
         }
 //        Iterator<String> it = listNew.iterator();
